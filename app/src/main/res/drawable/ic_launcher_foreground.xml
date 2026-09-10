@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Молния как символ электричества -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20L40,50L50,50L46,80L68,44L56,44L64,20Z" />
+</vector>
